@@ -1,0 +1,7 @@
+/Include/
+/Lib/
+/pi_setup_files/
+/Scripts/
+/venv/
+pyvenv.cfg
+scoreboard_async.py
