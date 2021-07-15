@@ -139,10 +139,10 @@ def main():
     # INITIALIZE PLAYERS
     # HOME - p1
     p1 = Player()
-    p1.games = 1
+    p1.games = 0
     # AWAY - p2
     p2 = Player()
-    p2.games = 1
+    p2.games = 0
 
     sign = OpenSign(rows=32, columns=64)
 
